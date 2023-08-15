@@ -1,0 +1,36 @@
+.heading{
+  font-family: cursive;
+  font-size: 50px;
+  color: green;
+  text-align: center;
+  text-decoration: underline;
+}
+h2{
+  font-family: cursive;
+  font-size: 50px;
+  color: green;
+  text-align: center;
+  text-decoration: underline;
+}
+.pressed{
+  background-color: grey;
+  box-shadow: white;
+}
+#button{
+  height: 200px;
+  width: 200px;
+  border-radius: 15px;
+  font-size: 50px;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
